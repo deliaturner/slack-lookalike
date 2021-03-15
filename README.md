@@ -1,3 +1,5 @@
+IN PROGRESS. But I'm currently being distracted by my life, work, and computer class... so this will have to wait.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
